@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+} 
+
+.bg {
+    display: grid;
+    width: 30%;
+}
+
+.celulaImg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
